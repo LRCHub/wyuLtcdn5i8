@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕らのインフィニット",
+  "base_artist": "テーマパークガール",
+  "createdAt": "2026-03-23T00:34:02.652257Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らのインフィニット",
+      "artist": "テーマパークガール",
+      "has_synced": false,
+      "path": "select/pl_01_僕らのインフィニット_テーマパークガール.txt"
+    }
+  ]
+}
